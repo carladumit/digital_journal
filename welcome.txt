@@ -1,0 +1,7 @@
+CS50 PROGRAMMING WITH PYTHON
+
+project’s title: 5-year digital journal
+name: Carla Dumitrascu
+GitHub and edX usernames: carladumit
+city and country: Valencia, Spain
+date: 29/06/2024
