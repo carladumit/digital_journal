@@ -40,4 +40,3 @@ This is a digital journal application that allows users to keep track of their d
 This is my first project in Python, also my final project for HarvardX CS50 Python Couse.
 It was an overall nice project to solidify my knowledge of Python, practice file I/O and dict handling, as well as implement several functions, including nested functions. I have also learned how to comment properly a large script using docstring, and improve my code regarding consistency, code reusability, input sanitization and user experience.
 My main challenge was writing a solid unit test file. Most of the functions in this project are void functions, which I had never had to test before. I still have a lot of work to do here!
-"# digital_journal" 
